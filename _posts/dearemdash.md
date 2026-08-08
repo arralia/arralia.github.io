@@ -1,10 +1,7 @@
 ---
 layout: post
 title: Love Letter to the Em Dash
-gh-repo: arralia/arralia.github.io
-gh-badge: [star, fork, follow]
 comments: true
-mathjax: true
 ---
 Dear Em Dash,
 

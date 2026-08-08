@@ -50,12 +50,10 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
   youtube: "@alyssiatan"
-  instagram: alyssia.kt
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
-#  linkedin: alyssia-tan
+  linkedin: alyssia-tan
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -79,9 +77,6 @@ share-links-active:
   vk: false
   reddit: false
 
-# How to display the link to your website in the footer
-# Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -239,7 +234,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "America/Los_Angeles"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
